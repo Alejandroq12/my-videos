@@ -1,8 +1,9 @@
+import React from "react";
 import { Stack } from '@mui/material';
 
-import { categories } from './utils/constants';
+import { categories } from '../utils/constants';
 
-const Sidebar = ({selectedCategory, setSelectedCategory}) => (
+const Categories = ({selectedCategory, setSelectedCategory}) => (
         <Stack
         direction="row"
         sx={{
@@ -12,9 +13,8 @@ const Sidebar = ({selectedCategory, setSelectedCategory}) => (
         }}
         >
            {categories.map((category) => (
-            <button
-            className="category-btn"
-            onClick={() =>setSelectedCategory(category.name)}
+            <button className="category-btn"
+            onClick={() => setSelectedCategory(category.name)}
             style={{
                 background: category.name === selectedCategory && '#FC1503',
                 color: 'white'
@@ -26,6 +26,6 @@ const Sidebar = ({selectedCategory, setSelectedCategory}) => (
             </button>
            ))}
         </Stack>
-)
+);
 
-export default Sidebar
+export default Categories;

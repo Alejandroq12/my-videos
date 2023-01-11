@@ -19,7 +19,7 @@ By creating this app I learned:
 
 * Material UI;
 
-* Fetching data using API;
+* Fetching data using RapidAPI;
 
 * Media queries;
 

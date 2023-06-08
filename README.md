@@ -23,7 +23,6 @@ By creating this app I learned:
 <a name="readme-top">My Videos</a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="logo.png" alt="logo" width="650"  height="auto" />
   <br/>
 
@@ -81,11 +80,9 @@ By creating this app I learned:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **It fetches data from an API.**
+- **It is responsive.**
+- **It is automatically updated.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

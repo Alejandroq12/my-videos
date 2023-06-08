@@ -41,7 +41,7 @@ By creating this app I learned:
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment ](#deployment-)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -145,21 +145,13 @@ You can deploy this project using: Netlify,
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Julio Quezada**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
+- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
+- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

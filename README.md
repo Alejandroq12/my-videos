@@ -40,7 +40,7 @@ By creating this app I learned:
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-    - [Deployment](#deployment)
+    - [Deployment ](#deployment-)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -134,17 +134,12 @@ To run tests, run the following command:
 
 Tests will be available soon!
 
-### Deployment
 
-You can deploy this project using:
+### Deployment <a name="deployment"></a>
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+You can deploy this project using: Netlify,
+- I used Netlify to deploy this application.
+- For more information about deployment on Netlify see "[Netlify](https://www.netlify.com/)".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

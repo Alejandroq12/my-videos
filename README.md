@@ -175,11 +175,11 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
+<!-- SUPPORT -->
+
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give me a star ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,9 +187,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I want to thank the guys from JavaScript Mastery for guiding me with this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

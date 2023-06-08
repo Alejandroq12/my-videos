@@ -1,19 +1,3 @@
-
-
------------------------------------------------------------
-By creating this app I learned:
-
-* React file and folder structure;
-
-* Material UI;
-
-* Fetching data using RapidAPI;
-
-* Media queries;
-
-* React functional components and reusability;
-
-
 <a name="readme-top">My Videos</a>
 
 <div align="center">
@@ -195,15 +179,19 @@ I want to thank the guys from JavaScript Mastery for guiding me with this projec
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **What did you learn with this project?**
 
-- **[Question_1]**
+- React file and folder structure.
 
-  - [Answer_1]
+- Material UI;
 
-- **[Question_2]**
+- Fetching data using RapidAPI;
 
-  - [Answer_2]
+- Media queries;
+
+- React functional components and reusability;
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

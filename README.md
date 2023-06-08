@@ -98,21 +98,16 @@ By creating this app I learned:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
+- [Node.js](https://nodejs.org/en).
+- [A code editor](https://code.visualstudio.com/).
+- [A web browser](https://www.google.com/chrome/).
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 

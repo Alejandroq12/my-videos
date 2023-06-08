@@ -1,10 +1,4 @@
-# To run this project locally:
 
-* npm install.
-
-* npm start.
-
-* npm start.
 
 -----------------------------------------------------------
 By creating this app I learned:
@@ -34,7 +28,6 @@ By creating this app I learned:
 
 # 📗 Table of Contents
 
-- [To run this project locally:](#to-run-this-project-locally)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 My Videos ](#-my-videos-)
   - [🛠 Built With ](#-built-with-)
@@ -113,51 +106,33 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git https://github.com/Alejandroq12/my-videos.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd my-videos
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  npm start
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+Tests will be available soon!
 
 ### Deployment
 

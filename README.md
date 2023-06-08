@@ -7,7 +7,7 @@
 * npm start.
 
 -----------------------------------------------------
-Thid is a responsive React JS application with video sections, custom categories, channel pages, and can play videos directly from this YouTube Clone App.
+
 
 -------------------------------------------------------
 Deployment: https://precious-begonia-1dc25b.netlify.app/
@@ -26,39 +26,14 @@ By creating this app I learned:
 * React functional components and reusability;
 
 
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
+<a name="readme-top">My Videos</a>
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="650"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>My Videos</b></h3>
 
 </div>
 
@@ -68,7 +43,7 @@ After you're finished please remove all the comments and instructions!
 
 - [To run this project locally:](#to-run-this-project-locally)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 My Videos ](#-my-videos-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -90,11 +65,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 My Videos <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**My Videos** is a responsive React.js application with video sections, custom categories, channel pages, and can play videos directly from this app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
